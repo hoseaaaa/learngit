@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Switched to a new branch 'dev'
 Learn $ git stash 
+Learn git push , now branch is feature-vulan 
